@@ -69,7 +69,7 @@ Compilation and Build Procedure (using command line):
 ***The Q1 program takes the Number of Boys, Number of girls and Number of gifts (in order) from the terminal from the user.
    It then generates random data items using the random utility.
    Couples then are allocated and printed in the terminal itself as well as in the following file with a timestamp : root/build/classes/log.txt
-   Furthermore, the random input data is stored in : 'root/build/classes/input.txt' for easier debugging;
+   Furthermore, the random input data is stored in : 'root/build/classes/input.txt' for easier debugging.
 
 
 4. Similarly, to Run the Program for Question 2, Enter :
