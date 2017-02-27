@@ -56,7 +56,7 @@ Compilation and Build Procedure (using command line):
 >>  javac  src/algorithm/*.java  src/data_structures/*.java   src/dataitem/*.java   src/utilities/*.java
 
 
-2. Change the Current Directory to that of (/build/classes) using the following command:
+2. Change the Current Directory to that of (/src) using the following command:
 
 >>  cd src
 
