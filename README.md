@@ -53,17 +53,17 @@ Compilation and Build Procedure (using command line):
 1. Change the current working directory to that of the root of the project directory which contains the 'src' directory inside it:
    Then, Run the following command to compile all the project packages at once:
    
->>  javac  src/algorithm/*.java  src/data_structures/*.java   src/dataitem/*.java   src/utilities/*.java
+   javac  src/algorithm/*.java  src/data_structures/*.java   src/dataitem/*.java   src/utilities/*.java
 
 
 2. Change the Current Directory to that of (/src) using the following command:
 
->>  cd src
+   cd src
 
 
 3. Now, for Running the Program for Question 1, Enter the following command:
 
->>  java algorithm.q1
+  java algorithm.q1
 
 
 ***The Q1 program takes the Number of Boys, Number of girls and Number of gifts (in order) from the terminal from the user.
@@ -74,7 +74,7 @@ Compilation and Build Procedure (using command line):
 
 4. Similarly, to Run the Program for Question 2, Enter :
 
->>  java algorithm.q2
+  java algorithm.q2
 
 ***The Q2 program takes Number of Boys, Number of girls and Number of gifts (in order) from the terminal, from the user.
    It also requires an input integer 'k' from the user. (where k < TOTAL NUMBER OF COUPLES FORMED)
