@@ -58,7 +58,7 @@ Compilation and Build Procedure (using command line):
 
 2. Change the Current Directory to that of (/build/classes) using the following command:
 
->>  cd src;
+>>  cd src
 
 
 3. Now, for Running the Program for Question 1, Enter the following command:
