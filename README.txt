@@ -51,7 +51,7 @@ Netbeans Build 8.2 , Javadoc , Code 2 UML
 Compilation and Build Procedure (using command line):
 
 1. Change the current working directory to that of the root of the project directory which contains the 'src' directory inside it:
-   Then, Run the following command to compile all the project packages at once:
+   Then, Run the following command to compile all the project packages at once: 
    
    javac  src/algorithm/*.java  src/data_structures/*.java   src/dataitem/*.java   src/utilities/*.java
 
