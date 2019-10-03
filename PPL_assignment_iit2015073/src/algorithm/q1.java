@@ -33,6 +33,7 @@ public class q1 {
        a=sc.nextInt();
        b=sc.nextInt();
        c=sc.nextInt();
+       System.out.println("The parameters received :"+a+","+b+","+c);
        random_gen_util u= new random_gen_util();
          try {
              u.random_gen(a, b, c);
